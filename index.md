@@ -7,3 +7,5 @@
 - Event Recording (Audio/Video) and Post-Production
 - Workshops
 - Equipment Rentals (lighting/sound/AV)
+
+![Make Things Do Stuff](img/makethingsdostuff.jpg)
