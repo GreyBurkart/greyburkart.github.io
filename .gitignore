@@ -1,2 +1,9 @@
 ,DS_Store
 node_modules/
+.DS_Store
+img/.DS_Store
+img/about/.DS_Store
+minigallery/.DS_Store
+minigallery/gmb/.DS_Store
+minigallery/widgets/.DS_Store
+vendor/.DS_Store
